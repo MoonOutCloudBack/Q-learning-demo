@@ -32,9 +32,9 @@ cd ./qlearning_sarsa
 
 python train.py --timesteps 50000 --alpha 0.02 --gamma 0.98 --seed 0
 python train.py --timesteps 50000 --alpha 0.02 --gamma 0.98 --seed 42
-python train.py --timesteps 50000 --alpha 0.02 --gamma 0.98 --seed 285
+python train.py --timesteps 50000 --alpha 0.02 --gamma 0.98 --seed 24
 
 python train.py --timesteps 50000 --alpha 0.02 --gamma 0.98 --seed 0 --sarsa
 python train.py --timesteps 50000 --alpha 0.02 --gamma 0.98 --seed 42 --sarsa
-python train.py --timesteps 50000 --alpha 0.02 --gamma 0.98 --seed 285 --sarsa
+python train.py --timesteps 50000 --alpha 0.02 --gamma 0.98 --seed 24 --sarsa
 '''
