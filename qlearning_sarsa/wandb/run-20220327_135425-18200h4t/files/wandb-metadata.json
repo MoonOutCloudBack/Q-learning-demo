@@ -1,0 +1,32 @@
+{
+    "os": "Windows-10-10.0.22000-SP0",
+    "python": "3.7.9",
+    "heartbeatAt": "2022-03-27T05:54:26.328159",
+    "startedAt": "2022-03-27T05:54:25.103176",
+    "docker": null,
+    "cpu_count": 16,
+    "cuda": null,
+    "args": [
+        "--timesteps",
+        "50000",
+        "--alpha",
+        "0.02",
+        "--gamma",
+        "0.98",
+        "--seed",
+        "0",
+        "--sarsa"
+    ],
+    "state": "running",
+    "program": "train.py",
+    "codePath": "qlearning_sarsa\\train.py",
+    "git": {
+        "remote": "git@github.com:MoonOutCloudBack/Q-learning-demo.git",
+        "commit": null
+    },
+    "email": "muni-come-on@qq.com",
+    "root": "D:/mira_workplace/Q-learning-demo",
+    "host": "epsilon",
+    "username": "muni-",
+    "executable": "D:\\app_coding\\Python\\Python37\\python.exe"
+}
